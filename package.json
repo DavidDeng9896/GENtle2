@@ -4,7 +4,7 @@
   "homepage": "http://gentledna.org/",
   "version": "0.7.0",
   "engines": {
-    "node": "^0.12"
+    "node": "^14.x"
   },
   "browser": {
     "jquery.mixed": "./public/scripts/common/lib/jquery.mixed.js",
